@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - https://shraddha0602.github.io/
+    - https://shraddha0602.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-12-24T04:27:44.561341524Z"
